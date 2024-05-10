@@ -84,7 +84,6 @@
 
     .carousel-caption h5 {
         font-size: 35px;
-        text-transform: uppercase;
         letter-spacing: 0;
     }
 
@@ -98,4 +97,18 @@
         display: none;
     }
 
+}
+
+.popular-residence {
+    margin-top: 100px;
+
+}
+
+.arrow-icon {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.popular-residence i {
+    text-transform: lowercase;
 }
