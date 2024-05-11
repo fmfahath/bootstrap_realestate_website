@@ -112,3 +112,17 @@
 .popular-residence i {
     text-transform: lowercase;
 }
+
+.bg-footer {
+    padding: 50px 0;
+    background-color: black;
+}
+
+.bg-footer a {
+    text-decoration: none;
+    color: #aeaeae;
+}
+
+.list-unstyled li {
+    margin-bottom: 10px;
+}
